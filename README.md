@@ -15,14 +15,14 @@ The program consists of the following key components:
    - Fetches weather information based on the user's coordinates using the OpenWeatherMap API.
    - Renders the weather information on the UI.e
 
-![User Search Tab](./Assets/YourWeather-tab.jpeg)
+![User Search Tab](./Assests/YourWeather-tab.jpeg)
 
 3. **Search Weather Tab Handling**:
    - Allows users to input a location to search for weather information.
    - Fetches weather information based on the searched location using the OpenWeatherMap API.
    - Renders the weather information on the UI.
 
-![Search Tab](./Assets/Search-tab.jpeg)
+![Search Tab](./Assests/Search-tab.jpeg)
 
 ## Functionality
 - **Tab Switching**: Users can switch between the "User Weather" and "Search Weather" tabs to view weather information for their current location or a searched location.
@@ -30,6 +30,8 @@ The program consists of the following key components:
 - **Error Handling**: Handles various errors such as denied geolocation permission or invalid search queries.
 - **Loading Screen**: Displays a loading screen while fetching weather information from the API.
 - **Rendering Weather Information**: Displays weather details such as temperature, wind speed, humidity, and cloudiness for the selected location.
+
+![Result Tab](./Assests/result.jpeg)
 
 ## Usage
 To use the application:
