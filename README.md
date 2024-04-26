@@ -13,7 +13,7 @@ The program consists of the following key components:
    - Retrieves user coordinates either from session storage or through geolocation.
    - Handles errors related to geolocation availability or denied permission.
    - Fetches weather information based on the user's coordinates using the OpenWeatherMap API.
-   - Renders the weather information on the UI.e
+   - Renders the weather information on the UI.
 
 ![User Search Tab](./Assests/YourWeather-tab.jpeg)
 
